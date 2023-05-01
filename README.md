@@ -1,3 +1,5 @@
 yrp_hud by YourRolePlay and Flap Development
 
-preview -> https://cdn.discordapp.com/attachments/776554175953633340/776927014560989227/unknown.png
+![image](https://user-images.githubusercontent.com/68059730/235509151-9b1d7e0c-d7ea-48ad-840d-5b2eaca79c98.png)
+
+preview -> https://streamable.com/qrj3kb
